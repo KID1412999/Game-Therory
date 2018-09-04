@@ -1,4 +1,4 @@
-#《博弈论经典》-第一章-讨价还价模型分析
+#《博弈论经典》-第二章-讨价还价模型分析
 import numpy as np
 import matplotlib.pyplot as plt
 b=[[2,4],[2,2],[2,1],[2,2],[4,1]]#比尔的选择
